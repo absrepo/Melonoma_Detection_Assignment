@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Melonoma Detection.
 
 
 ## Table of Contents
